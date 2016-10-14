@@ -1,0 +1,19 @@
+{
+    "config": {
+        "rau": {
+            "formatVersion": "1.0.0",
+            "hashType": "md5",
+            "profileKey": "YOUR RAU PROFILE KEY",
+            "revision": 1,
+            "channels": ["production", "test"],
+            "meta": {
+                "title": "A new version is ready!",
+                "update": "Bug fixes and improvements.",
+                "redirectURL": "",
+                "isMandatory": false
+            },
+            "minimumSupportedVersion": "1.1.0",
+            "currentReleaseChannel": "test"
+        }
+    }
+}
