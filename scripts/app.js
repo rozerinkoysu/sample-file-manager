@@ -8,21 +8,8 @@ var smfOracle;
 var mcsCollectionName = "YOUR_ORACLE_MCS_COLLECTION";
 var mcsUser, mcsPassword;
 
-//Doruk global variables begin
 var cntAccountUpdate;
 var cntActivityLog;
-// Doruk global variables end
-
-/*
-These sample username and passwords created in Smartace app domain on Oracle MCS
-Testing purposes only!
-
-Username = 'smf-test';
-Password = 'Sf123123';
-
-Username = 'oracle';
-Password = 'Open2016';
-*/
 
 /**
  * Triggered when application is started.
@@ -43,7 +30,9 @@ function Application_OnStart(e) {
 		});
 	}
 	else {
-		checkforUpdate();
+		setTimeout(function() {
+			checkforUpdate();
+		}, 3000);
 	}
 
 	// Creating a new Oracle MCS instance 
