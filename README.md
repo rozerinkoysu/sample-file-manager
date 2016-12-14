@@ -8,9 +8,9 @@
 
 File Manager from Smartface is a sample app to demonstrate Smartface and Oracle MCS integration. You can freely use the code in your apps.
 
-<img width=250 src="https://github.com/rozerinkoysu/sample-file-manager/blob/master/temp/s_1.png">
-<img width=250 src="https://github.com/rozerinkoysu/sample-file-manager/blob/master/temp/s_2.png" hspace="30">
-<img width=250 src="https://github.com/rozerinkoysu/sample-file-manager/blob/master/temp/s_3.png">
+<img width=250 src="https://github.com/rozerinkoysu/sample-file-manager/blob/master/temp/s_1.PNG">
+<img width=250 src="https://github.com/rozerinkoysu/sample-file-manager/blob/master/temp/s_2.PNG" hspace="30">
+<img width=250 src="https://github.com/rozerinkoysu/sample-file-manager/blob/master/temp/s_3.PNG">
 
 # How to Use
 To use all functionality in this app, please follow these steps;
